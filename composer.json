@@ -3,7 +3,11 @@
   "description": "PHP mini webframework for handle reqest and response with no dependency",
   "type": "library",
   "license": "Apache-2.0",
-  "keywords": ["mini", "solid", "webframework"],
+  "keywords": [
+    "mini",
+    "solid",
+    "webframework"
+  ],
   "support": {
     "issues": "https://github.com/vicheanath/minisolid/issues",
     "source": "https://github.com/vicheanath/minisolid"
@@ -21,9 +25,9 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": "^7.4"
+    "php": "^8.3"
   },
   "require-dev": {
-    "phpunit/phpunit": "^11.5"
+    "phpunit/phpunit": "^9.5"
   }
 }
