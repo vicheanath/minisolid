@@ -1,4 +1,6 @@
 <?php
+
+namespace Mini\Solid;
 class Response {
     public static function json($data, $status = 200) {
         http_response_code($status);

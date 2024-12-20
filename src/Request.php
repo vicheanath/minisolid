@@ -1,4 +1,6 @@
 <?php
+
+namespace Mini\Solid;
 class Request {
     public $method;
     public $uri;
