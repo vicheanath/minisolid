@@ -2,7 +2,12 @@
   "name": "minisolid/minisolid",
   "description": "PHP mini webframework for handle reqest and response with no dependency",
   "type": "library",
-  "license": "MTL",
+  "license": "Apache-2.0",
+  "keywords": ["mini", "solid", "webframework"],
+  "support": {
+    "issues": "https://github.com/vicheanath/minisolid/issues",
+    "source": "https://github.com/vicheanath/minisolid"
+  },
   "autoload": {
     "psr-4": {
       "Mini\\Solid\\": "src/"
