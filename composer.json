@@ -1,5 +1,5 @@
 {
-  "name": "mini/solid",
+  "name": "vichea/minisolid",
   "description": "PHP mini webframework for handle reqest and response with no dependency",
   "type": "library",
   "license": "MTL",
